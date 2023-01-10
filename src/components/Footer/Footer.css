@@ -1,0 +1,10 @@
+.App-footer {
+  background-color: #282c34;
+  height: 8vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: white;
+}
