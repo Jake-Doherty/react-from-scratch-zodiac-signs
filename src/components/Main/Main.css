@@ -1,9 +1,14 @@
+body {
+  height: 100vh;
+}
 main {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 40px;
+  margin: 0 auto;
   background-size: cover;
-  height: 79.5vh;
-  align-content: flex-start;
+  height: 80vh;
+  align-content: space-around;
+  justify-content: space-evenly;
   position: relative;
+  overflow: auto;
 }
