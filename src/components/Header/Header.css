@@ -1,6 +1,6 @@
 .App-header {
   background-color: #282c34;
-  height: 8.3vh;
+  height: 10vh;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -10,7 +10,7 @@
 }
 
 .App-logo {
-  height: 40px;
+  height: 8vh;
   margin: 20px;
   pointer-events: none;
 }
@@ -21,12 +21,6 @@
   }
 }
 
-.App-link {
-  font-size: 20px;
-  color: #61dafb;
-  padding-right: 50px;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -34,4 +28,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.page-header {
+  margin-right: 25%;
 }
