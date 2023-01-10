@@ -1,0 +1,14 @@
+.zodiac-container {
+  background-color: rgba(250, 235, 215, 0.479);
+  color: #282c34;
+  display: grid;
+  grid-template-rows: 150px;
+  grid-template-columns: 150px;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.zodiac-sign-image {
+  margin: 0 auto;
+  width: 80px;
+}

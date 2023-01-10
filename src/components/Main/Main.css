@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  background-size: cover;
+  height: 80vh;
+  align-content: space-around;
+  justify-content: space-evenly;
+  position: relative;
+  overflow: auto;
+}

@@ -1,0 +1,16 @@
+.App-footer {
+  background-color: #282c34;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 20px;
+  color: white;
+}
+
+.App-link {
+  font-size: 20px;
+  color: #61dafb;
+  padding-right: 50px;
+}
